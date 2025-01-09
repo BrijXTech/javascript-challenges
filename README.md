@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brijkishor-kumar
+- 👋 Hi, I’m brijkishor
 - 👀 I’m interested in software developemnt.
 - 🌱 I’m currently working on web development and proficient in Javascript, ReactJs, Ant-Design, HTML5, CSS3.
 - Have worked on multiple projects and having depth understanding of UX design and development.
